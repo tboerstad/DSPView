@@ -8,3 +8,6 @@ an optimal parameter set.
 
 ![Flow_chart](http://thomab.github.com/DSPview/img/flow_chart.png)
 
+Short demonstration video
+=======
+[![ScreenShot](http://thomab.github.io/DSPview/img/youtube_link.png)](http://youtu.be/ZBE5XjUCRkE)
