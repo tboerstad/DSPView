@@ -6,15 +6,15 @@ It has a simple GUI which lets you easily try out different estimators, filters 
 images will update in real-time, enabling quick prototyping and making it easier to get an intuitive understanding
 of the digital signal processing involved. 
 
-![Flow_chart](http://tboerstad.github.com/DSPView/img/flow_chart.png)
+![Flow_chart](http://tboerstad.github.io/DSPView/img/flow_chart.png)
 
 Demonstration video
 =======
-[![Video](http://tboerstad.github.io/DSPView/img/youtube_link.png)](http://youtu.be/Y7wjaqBPt9o)
+[![Video](http://tboerstad.github.com/DSPView/img/youtube_link.png)](http://youtu.be/Y7wjaqBPt9o)
 
 Screenshot
 =======
-![Screenshot](http://tboerstad.github.com/DSPView/img/screenshot.png)
+![Screenshot](http://tboerstad.github.io/DSPView/img/screenshot.png)
 
 Documentation
 =======
