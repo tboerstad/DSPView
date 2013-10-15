@@ -2,9 +2,9 @@ DSPView
 =======
 
 DSPView is a MATLAB framework for ultrasound B-mode, velocity, strain and elastographic processing. 
-It has a simple GUI which lets you easily try different algorithms and parameters, the output
-image will update in real-time. This drastically reduces the amount of time needed to find
-an optimal parameter set. 
+It has a simple GUI which lets you easily try out different estimators, filters and parameters. The output
+images will update in real-time, enabling quick prototyping and making it easier to get an intuitive understanding
+of the digital signal processing involved. 
 
 ![Flow_chart](http://thomab.github.com/DSPView/img/flow_chart.png)
 
