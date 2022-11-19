@@ -10,7 +10,7 @@ of the digital signal processing involved.
 
 Demonstration video
 =======
-[![Video](http://tboerstad.github.com/DSPView/img/youtube_link.png)](http://youtu.be/OepJFh9cgp4)
+[![Video](https://img.youtube.com/vi/OepJFh9cgp4/0.jpg)](http://youtu.be/OepJFh9cgp4)
 
 Screenshot
 =======
